@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+gradio==3.50.2
+gradio_client==0.6.1

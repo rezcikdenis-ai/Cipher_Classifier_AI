@@ -1,0 +1,24 @@
+# Сгенерированные файлы — создаются при запуске модулей
+cipher_dataset.csv
+cipher_model.pkl
+feature_names.pkl
+
+# Изображения графиков
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# macOS
+.DS_Store
